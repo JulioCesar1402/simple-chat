@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "eslint-config-trybe-backend": "^1.0.4",
+    "express": "^4.17.1",
+    "socket.io": "^4.4.0"
+  },
+  "name": "chat-socketio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
